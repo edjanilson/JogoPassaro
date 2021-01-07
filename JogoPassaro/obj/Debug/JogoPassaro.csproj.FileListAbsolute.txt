@@ -1,0 +1,10 @@
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\JogoPassaro\JogoPassaro\bin\Debug\JogoPassaro.exe.config
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\JogoPassaro\JogoPassaro\bin\Debug\JogoPassaro.exe
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\JogoPassaro\JogoPassaro\bin\Debug\JogoPassaro.pdb
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\JogoPassaro\JogoPassaro\obj\Debug\JogoPassaro.csprojAssemblyReference.cache
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\JogoPassaro\JogoPassaro\obj\Debug\JogoPassaro.Form1.resources
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\JogoPassaro\JogoPassaro\obj\Debug\JogoPassaro.Properties.Resources.resources
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\JogoPassaro\JogoPassaro\obj\Debug\JogoPassaro.csproj.GenerateResource.cache
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\JogoPassaro\JogoPassaro\obj\Debug\JogoPassaro.csproj.CoreCompileInputs.cache
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\JogoPassaro\JogoPassaro\obj\Debug\JogoPassaro.exe
+C:\Users\edjanilson\Desktop\Projetos C#\Windows Forms\JogoPassaro\JogoPassaro\obj\Debug\JogoPassaro.pdb
